@@ -1,0 +1,11 @@
+C:\Users\bekta\source\repos\AgeOfCompany\AgeOfCompany\bin\Debug\AgeOfCompany.exe.config
+C:\Users\bekta\source\repos\AgeOfCompany\AgeOfCompany\bin\Debug\AgeOfCompany.exe
+C:\Users\bekta\source\repos\AgeOfCompany\AgeOfCompany\bin\Debug\AgeOfCompany.pdb
+C:\Users\bekta\source\repos\AgeOfCompany\AgeOfCompany\obj\Debug\AgeOfCompany.csprojAssemblyReference.cache
+C:\Users\bekta\source\repos\AgeOfCompany\AgeOfCompany\obj\Debug\AgeOfCompany.FormGetDataFile.resources
+C:\Users\bekta\source\repos\AgeOfCompany\AgeOfCompany\obj\Debug\AgeOfCompany.Properties.Resources.resources
+C:\Users\bekta\source\repos\AgeOfCompany\AgeOfCompany\obj\Debug\AgeOfCompany.csproj.GenerateResource.cache
+C:\Users\bekta\source\repos\AgeOfCompany\AgeOfCompany\obj\Debug\AgeOfCompany.csproj.CoreCompileInputs.cache
+C:\Users\bekta\source\repos\AgeOfCompany\AgeOfCompany\obj\Debug\AgeOfCompany.exe
+C:\Users\bekta\source\repos\AgeOfCompany\AgeOfCompany\obj\Debug\AgeOfCompany.pdb
+C:\Users\bekta\source\repos\AgeOfCompany\AgeOfCompany\obj\Debug\AgeOfCompany.FormViewPlay.resources
